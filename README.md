@@ -1,0 +1,1 @@
+🐍 Java Snake Game A classic Snake game built in Java using Swing and AWT. Features include: ✅ Dynamic Snake Colors (changes every 5 points) ✅ Golden Apple Bonus (appears every 7 points, worth 5 points) ✅ Smooth Animations & Optimized Performance ✅ Keyboard Controls & Restart Functionality 🎮 Play, modify, and enhance the game! 🚀
